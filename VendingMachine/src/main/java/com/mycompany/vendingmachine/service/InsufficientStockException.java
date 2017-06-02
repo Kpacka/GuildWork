@@ -7,7 +7,7 @@ package com.mycompany.vendingmachine.service;
 
 /**
  *
- * @author jenniferbliss
+ * @author KylePackard
  */
 public class InsufficientStockException extends Exception {
   

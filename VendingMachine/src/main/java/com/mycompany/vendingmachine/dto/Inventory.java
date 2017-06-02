@@ -9,7 +9,7 @@ import java.math.BigDecimal;
 
 /**
  *
- * @author jenniferbliss
+ * @author KylePackard
  */
 public class Inventory {
     

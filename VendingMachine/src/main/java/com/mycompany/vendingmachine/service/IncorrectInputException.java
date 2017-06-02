@@ -7,17 +7,16 @@ package com.mycompany.vendingmachine.service;
 
 /**
  *
- * @author jenniferbliss
+ * @author KylePackard
  */
-public class InsufficientFundsException extends Exception {
+public class IncorrectInputException extends Exception {
 
-    public InsufficientFundsException(String message) {
+    public IncorrectInputException(String message) {
         super(message);
     }
 
-    public InsufficientFundsException(String message,
+    public IncorrectInputException(String message,
             Throwable cause) {
         super(message, cause);
     }
-
 }

@@ -7,15 +7,15 @@ package com.mycompany.vendingmachine.service;
 
 /**
  *
- * @author jenniferbliss
+ * @author KylePackard
  */
-public class IncorrectInputException extends Exception {
+public class VendingMachineDataValidationException extends Exception {
 
-    public IncorrectInputException(String message) {
+    public VendingMachineDataValidationException(String message) {
         super(message);
     }
 
-    public IncorrectInputException(String message,
+    public VendingMachineDataValidationException(String message,
             Throwable cause) {
         super(message, cause);
     }

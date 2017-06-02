@@ -15,7 +15,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author jenniferbliss
+ * @author KylePackard
  */
 public class VendingLogicImpl implements VendingLogic {
 

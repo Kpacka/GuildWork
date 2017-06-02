@@ -19,7 +19,8 @@ import java.util.Scanner;
 
 /**
  *
- * @author jenniferbliss
+ * @author KylePackard
+ * 
  */
 public class VendingMachineDaoStubImplForDaoTest implements VendingMachineDao{
 

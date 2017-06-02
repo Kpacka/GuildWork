@@ -7,7 +7,7 @@ package com.mycompany.vendingmachine.view;
 
 /**
  *
- * @author jenniferbliss
+ * @author KylePackard
  */
 public interface UserIO {
     

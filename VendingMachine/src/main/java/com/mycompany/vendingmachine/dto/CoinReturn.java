@@ -7,7 +7,7 @@ package com.mycompany.vendingmachine.dto;
 
 /**
  *
- * @author jenniferbliss
+ * @author KylePackard
  */
 public class CoinReturn {
 

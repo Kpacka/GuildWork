@@ -7,16 +7,17 @@ package com.mycompany.vendingmachine.service;
 
 /**
  *
- * @author jenniferbliss
+ * @author KylePackard
  */
-public class VendingMachineDataValidationException extends Exception {
+public class InsufficientFundsException extends Exception {
 
-    public VendingMachineDataValidationException(String message) {
+    public InsufficientFundsException(String message) {
         super(message);
     }
 
-    public VendingMachineDataValidationException(String message,
+    public InsufficientFundsException(String message,
             Throwable cause) {
         super(message, cause);
     }
+
 }
