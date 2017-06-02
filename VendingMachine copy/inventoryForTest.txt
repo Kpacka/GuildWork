@@ -1,0 +1,6 @@
+Poptart::1.0::1
+KitKat::1.25::1
+Cherries::1.25::3
+Ipod::100::0
+Avocado::2.50::3
+NewItem::3.00::0
